@@ -52,4 +52,23 @@ body {
   padding: 0.25rem;
 }
 
+img {
+  max-width: 50px;
+  width: auto;
+}
+
+table {
+  width: 100%;
+}
+table thead {
+  background-color: rgb(207, 206, 206);
+}
+table tbody {
+  height: auto;
+  width: 100%;
+  background-color: azure;
+  align-content: center;
+  text-align: center;
+}
+
 /*# sourceMappingURL=styles.css.map */

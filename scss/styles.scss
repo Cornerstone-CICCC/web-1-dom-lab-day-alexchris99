@@ -57,3 +57,23 @@ body {
     }
   }
 }
+
+img{
+  max-width: 50px;
+  width: auto;
+}
+
+table{
+  width: 100%;
+  thead{
+    background-color: rgb(207, 206, 206);
+
+  }
+  tbody{
+    height: auto;
+    width: 100%;
+    background-color: azure;
+    align-content: center;
+    text-align: center;
+  }
+}
